@@ -67,8 +67,10 @@ She also makes sure to switch the status of the issue from open to resolved
   <p>
 Support Agent John sees in his portal that System Administrator Agent Jane has left him a message and that the ticket is now closed
 <img 
-</p>
-<p>
+
+  
+</p>The osTicket ticket lifecycle shows how a support request moves from creation to completion in a structured workflow.
+<p>Overall, the process in osTicket ensures structured tracking, proper escalation, clear communication, and verified resolution from start to finish.
 
 </p>
 <br />
