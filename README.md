@@ -28,7 +28,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 **Intake**
-User creates a ticket
+<p>
+  
+</p>User creates a ticket
 <p>
 <img width="658" height="398" alt="image" src="https://github.com/user-attachments/assets/4f6b29ed-b29d-4191-b05e-376e461666a3" />
 
