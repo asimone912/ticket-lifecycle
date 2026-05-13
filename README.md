@@ -48,7 +48,8 @@ Communication
 <p>
   John sees this is a Sev-A ticket and has to reassign to a sysadmin
   <img width="642" height="342" alt="image" src="https://github.com/user-attachments/assets/84427d12-987b-46f1-98b6-f916059be26a" />
-
+<p> John leaves a proper message
+</p>
 
 </p>
 <br />
