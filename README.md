@@ -48,7 +48,8 @@ Support agent John logs into the system
 Communication
 <p>
   John sees this is a Sev-A ticket and has to reassign to a sysadmin
- <img width="289" height="190" alt="image" src="https://github.com/user-attachments/assets/d7e768a7-0262-4393-8e83-9bbc3ab2eccb" />
+<img width="256" height="173" alt="image" src="https://github.com/user-attachments/assets/803a06f7-85c6-4f14-a108-dc88561eadf1" />
+>
 
 
 <p> John leaves a proper message
