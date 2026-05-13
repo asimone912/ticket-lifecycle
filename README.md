@@ -27,15 +27,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 Intake
 <p>
-</p>User creates a ticket
+ User creates a ticket
 <p>
 <img width="658" height="398" alt="image" src="https://github.com/user-attachments/assets/4f6b29ed-b29d-4191-b05e-376e461666a3" />
-  <p>
-    
+   
   </p>
 Ticket assignment
 </p>
-Support agent John logs into the system
+ Support agent John logs into the system
 <p>
 <img width="469" height="343" alt="image" src="https://github.com/user-attachments/assets/ec35be53-6401-4276-869d-3ad5883c6ad8" />
 
