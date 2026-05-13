@@ -50,9 +50,7 @@ Communication
   John sees this is a Sev-A ticket and has to reassign to a sysadmin
 <img width="256" height="173" alt="image" src="https://github.com/user-attachments/assets/803a06f7-85c6-4f14-a108-dc88561eadf1" />
 >
-
-
-<p> John leaves a proper message
+<p> 
 </p>
 
 </p>
