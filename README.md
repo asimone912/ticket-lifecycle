@@ -52,7 +52,12 @@ Communication
 </p>
 
 </p>
+Working the issue
 <br />
+Sysadmin agent Jane logs in
+<img width="486" height="342" alt="image" src="https://github.com/user-attachments/assets/20c285aa-da90-4a57-ae20-bcd5b6ded5b4" />
+ 
+</p>
 
 <p>
 <img 
