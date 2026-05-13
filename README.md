@@ -37,6 +37,7 @@ Intake
 
 </p>
 <p>
+<img width="658" height="415" alt="image" src="https://github.com/user-attachments/assets/73dab5c2-cb6f-48d1-aea1-ddc4ba601441" />
 
 </p>
 <br />
