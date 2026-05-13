@@ -31,10 +31,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-https://camo.githubusercontent.com/bb2f90b9f6a9829cdfa2f2a07720f7952a5266e76412975715a028d719c60fe0/68747470733a2f2f696d6775722e636f6d2f456933325657492e706e67
+<img width="658" height="398" alt="image" src="https://github.com/user-attachments/assets/4f6b29ed-b29d-4191-b05e-376e461666a3" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
