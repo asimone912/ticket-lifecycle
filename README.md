@@ -36,8 +36,16 @@ Intake
 <img width="658" height="398" alt="image" src="https://github.com/user-attachments/assets/4f6b29ed-b29d-4191-b05e-376e461666a3" />
 
 </p>
+Support agent John logs into the system
 <p>
 <img width="658" height="415" alt="image" src="https://github.com/user-attachments/assets/73dab5c2-cb6f-48d1-aea1-ddc4ba601441" />
+
+</p>
+Communication
+<p>
+  <img width="642" height="342" alt="image" src="https://github.com/user-attachments/assets/84427d12-987b-46f1-98b6-f916059be26a" />
+
+John sees this is a Sev-A ticket and has to reassign to the sysadmin
 
 </p>
 <br />
