@@ -34,6 +34,9 @@ Intake
 </p>User creates a ticket
 <p>
 <img width="658" height="398" alt="image" src="https://github.com/user-attachments/assets/4f6b29ed-b29d-4191-b05e-376e461666a3" />
+  <p>
+    
+  </p>
 Ticket assignment
 </p>
 Support agent John logs into the system
