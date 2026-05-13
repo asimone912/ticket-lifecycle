@@ -63,10 +63,9 @@ Sysadmin agent Jane logs in
 <p>
 She also makes sure to switch the status of the issue from open to resolved
 <img width="525" height="430" alt="image" src="https://github.com/user-attachments/assets/baff8844-6fa8-4d67-9e13-4e7266f36c9a" />
-
-
-
-<p>
+<p>Resolution
+  <p>
+Support Agent John sees in his portal that System Administrator Agent Jane has left him a message and that the ticket is now closed
 <img 
 </p>
 <p>
