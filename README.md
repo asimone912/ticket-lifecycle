@@ -69,7 +69,8 @@ Support Agent John sees in his portal that System Administrator Agent Jane has l
 <img 
 
   
-</p>The osTicket ticket lifecycle shows how a support request moves from creation to completion in a structured workflow.
+</p>
+The osTicket ticket lifecycle shows how a support request moves from creation to completion in a structured workflow.
 <p>Overall, the process in osTicket ensures structured tracking, proper escalation, clear communication, and verified resolution from start to finish.
 
 </p>
