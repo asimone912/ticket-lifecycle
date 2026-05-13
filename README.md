@@ -41,7 +41,8 @@ Ticket assignment
 </p>
 Support agent John logs into the system
 <p>
-<img width="658" height="415" alt="image" src="https://github.com/user-attachments/assets/73dab5c2-cb6f-48d1-aea1-ddc4ba601441" />
+<img width="469" height="343" alt="image" src="https://github.com/user-attachments/assets/ec35be53-6401-4276-869d-3ad5883c6ad8" />
+
 
 </p>
 Communication
