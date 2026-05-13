@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-****Intake****
+#**Intake**
 <p>
   
 </p>User creates a ticket
