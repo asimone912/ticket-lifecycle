@@ -62,7 +62,8 @@ Sysadmin agent Jane logs in
 </p>Agent Jane works on the issue and communicates back to Agent John.
 <p>
 She also makes sure to switch the status of the issue from open to resolved
-Press enter or click to view image in full size
+<img width="525" height="430" alt="image" src="https://github.com/user-attachments/assets/baff8844-6fa8-4d67-9e13-4e7266f36c9a" />
+
 
 
 <p>
